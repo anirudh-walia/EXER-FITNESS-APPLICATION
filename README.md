@@ -1,4 +1,4 @@
-# flutter_app_learning
+# Exer
 
 A new Flutter application.
 
