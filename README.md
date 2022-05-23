@@ -21,6 +21,7 @@ with exer are trying to give a better personalised product.
 
 Download from here --> http://exerapp.pythonanywhere.com
 
+Link for my flask API code --> https://github.com/anirudh-walia/fitness_api-Flutter-Flask-
 
 https://user-images.githubusercontent.com/53787402/169810597-49d52363-4081-4d67-b096-dfc7540ce860.mp4
 
