@@ -19,7 +19,7 @@ so there is a huge demand for better and faster workout applications and we
 with exer are trying to give a better personalised product.
 
 
-
+Download from here --> http://exerapp.pythonanywhere.com/download
 
 
 https://user-images.githubusercontent.com/53787402/169810597-49d52363-4081-4d67-b096-dfc7540ce860.mp4
