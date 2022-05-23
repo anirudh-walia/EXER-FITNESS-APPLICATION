@@ -1,11 +1,26 @@
-# Exer
+# EXER
 
-A new Flutter application.
+A Personalized fitness application.
 
-## Getting Started
+## About Exer
+
+Exer aims to revolutionise the way people workout. Backed with advanced
+technologies, exer makes workouts more effective and personalised. The
+application is compatible with almost all android devices this makes it even
+more accessible and easy to use. The user interface has been kept
+minimalistic for effortless user experience anyone with an internet
+connection can access our application and get personalised workouts for the
+meals they have consumed. The logic behind exer is a mix of Data Science
+and Natural Language Processing these two combined in a new algorithm
+gives really great recommendations according to the users needs.
+Rise of infectious diseases like COVID-19 has also given a boost to the
+online workout and fitness sector as gyms were not easily accessible and safe
+so there is a huge demand for better and faster workout applications and we
+with exer are trying to give a better personalised product.
 
 
 
 
-https://user-images.githubusercontent.com/53787402/169810375-7294b82e-b21c-43e2-b3d0-683a7568dd30.mp4
+
+https://user-images.githubusercontent.com/53787402/169810597-49d52363-4081-4d67-b096-dfc7540ce860.mp4
 
